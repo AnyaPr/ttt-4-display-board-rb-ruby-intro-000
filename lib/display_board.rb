@@ -12,4 +12,4 @@ end
 #b0 = ["O","X"," "," "," "," "," "," "," "]
 #b04 = ["O"," "," "," ","X"," "," "," "," "]
 
-display_board(b_empty)
+#display_board(b_empty)
